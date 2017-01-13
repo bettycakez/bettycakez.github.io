@@ -31,7 +31,7 @@ h6,
 .pager li > span {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-.site-heading {
+.intro-heading .site-heading {
   visibility: hidden !important;
 }
 .navbar-brand {
