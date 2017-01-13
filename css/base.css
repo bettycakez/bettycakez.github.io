@@ -32,10 +32,10 @@ h6,
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .site-heading {
-  visibility: hidden;
+  visibility: hidden !important;
 }
 .navbar-brand {
-  font-size: 1.3em;
+  font-size: 1.3em !important;
   color: #000 !important;
 }
 .post-heading {
