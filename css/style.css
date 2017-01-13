@@ -154,7 +154,7 @@ hr.small {
   }
 }
 .intro-header {
-  background-color: #808080;
+  background-color: #fff;
   background-position: center center;
   background-attachment: scroll;
   margin-bottom: 50px;
@@ -163,7 +163,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: #fff;
+  color: #000;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
@@ -610,4 +610,14 @@ pre .clojure .title {
 }
 pre .deletion {
   color: #dc322f;
+}
+.site-heading {
+  visibility: hidden !important;
+}
+.navbar-brand {
+  font-size: 1.3em !important;
+  color: #000 !important;
+}
+.post-heading {
+  padding: 75px 0 0 0 !important;
 }

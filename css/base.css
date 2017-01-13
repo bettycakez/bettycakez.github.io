@@ -31,16 +31,6 @@ h6,
 .pager li > span {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
-.intro-heading .site-heading {
-  visibility: hidden !important;
-}
-.navbar-brand {
-  font-size: 1.3em !important;
-  color: #000 !important;
-}
-.post-heading {
-  padding: 75px 0 0 0 !important;
-}
 body {
   font-size: 20px;
   color: #404040;
