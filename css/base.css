@@ -31,6 +31,16 @@ h6,
 .pager li > span {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+.site-heading {
+  visibility: hidden;
+}
+.navbar-brand {
+  font-size: 1.3em;
+  color: #000 !important;
+}
+.post-heading {
+  padding: 75px 0 0 0 !important;
+}
 body {
   font-size: 20px;
   color: #404040;
@@ -154,7 +164,7 @@ hr.small {
   }
 }
 .intro-header {
-  background-color: #808080;
+  background-color: #fff;
   background-position: center center;
   background-attachment: scroll;
   margin-bottom: 50px;
@@ -163,7 +173,7 @@ hr.small {
 .intro-header .post-heading,
 .intro-header .page-heading {
   padding: 100px 0 50px;
-  color: #fff;
+  color: #000;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading,
