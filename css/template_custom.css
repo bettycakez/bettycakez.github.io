@@ -38,7 +38,8 @@ div#wrapper section.writing-section div.inner a {
   cursor: pointer;
 }
 
-div#wrapper section.writing-section h2 {
+div#wrapper section.writing-section h2,
+div#wrapper section.art-section h2 {
   text-align: center;
   font-size: 2.5rem;
   letter-spacing: 0.65rem;

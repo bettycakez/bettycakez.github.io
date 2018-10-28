@@ -185,6 +185,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		font-size: 1.75rem;
 	}
 
 		p.major {
@@ -194,8 +195,6 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.375;
-		font-size: 1.75rem;
-		letter-spacing: 0.65rem;
 		margin: 0 0 1rem 0;
 	}
 
