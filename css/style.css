@@ -726,3 +726,9 @@ footer .row>div {
 .post-preview a:focus {
   color: #e45e1a !important;
 }
+h2.post-title {
+  font-size: 2rem !important;
+}
+h3.post-subtitle {
+  font-size: 1.75rem;
+}
