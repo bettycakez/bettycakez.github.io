@@ -225,10 +225,10 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
-    font-size: 55px;
+    font-size: 2.5rem;
   }
   .intro-header .post-heading .subheading {
-    font-size: 30px;
+    font-size: 1.75rem;
   }
 }
 .post-preview > a {
@@ -627,6 +627,7 @@ pre .deletion {
 }
 .post-subheading {
   font-weight: 300 !important;
+  font-size: 1.75rem;
 }
 ul.nav.navbar-nav.navbar-right a {
   color: #000;
@@ -727,7 +728,7 @@ footer .row>div {
   color: #e45e1a !important;
 }
 h2.post-title {
-  font-size: 2rem !important;
+  font-size: 2.5rem !important;
 }
 h3.post-subtitle {
   font-size: 1.75rem;
