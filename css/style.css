@@ -664,8 +664,8 @@ ul.nav.navbar-nav.navbar-right a {
   color: #fff;
   text-decoration: none;
 }
-.bg-main .bg-text-intro a:hover {
-  color: #e45e1a;
+a:hover {
+  color: #e45e1a !important;
 }
 @media screen and (max-width: 570px) {
   .bg-text-name {
